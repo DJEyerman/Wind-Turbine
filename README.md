@@ -1,13 +1,12 @@
 # Predictive Maintenance for Wind Turbines
 
-  In this data science project, our objective was to develop a robust predictive 
-  maintenance model for wind turbines, leveraging various classification algorithms. 
-  The project aimed to proactively identify potential equipment failures and 
-  optimize maintenance schedules, thereby minimizing downtime and maximizing
-  operational efficiency.
+In this data science project, our objective was to develop a robust predictive maintenance model for wind turbines, leveraging various classification algorithms. The project aimed to proactively identify potential equipment failures and optimize maintenance schedules, thereby minimizing downtime and maximizing operational efficiency.
 
 ## Objective:
-The primary goal was to create a predictive maintenance model that could forecast potential issues in wind turbines before they occur. This proactive approach would enable timely maintenance interventions, ultimately enhancing the reliability and performance of the turbines.
+  The primary goal was to create a predictive maintenance model that could forecast potential 
+  issues in wind turbines before they occur. This proactive approach would enable timely 
+  maintenance interventions, ultimately enhancing the reliability and performance 
+  of the turbines.
 
 ## Data Collection:
 A comprehensive dataset was collected, encompassing a variety of features such as turbine sensor data, historical maintenance records, weather conditions, and operational parameters. This diverse dataset served as the foundation for training and evaluating the predictive maintenance models.
