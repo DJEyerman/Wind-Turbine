@@ -3,23 +3,27 @@
 In this data science project, our objective was to develop a robust predictive maintenance model for wind turbines, leveraging various classification algorithms. The project aimed to proactively identify potential equipment failures and optimize maintenance schedules, thereby minimizing downtime and maximizing operational efficiency.
 
 ## Objective:
-  The primary goal was to create a predictive maintenance model that could forecast potential 
-  issues in wind turbines before they occur. This proactive approach would enable timely 
-  maintenance interventions, ultimately enhancing the reliability and performance 
-  of the turbines.
+    The primary goal was to create a predictive maintenance model that could forecast potential 
+    issues in wind turbines before they occur. This proactive approach would enable timely 
+    maintenance interventions, ultimately enhancing the reliability and performance 
+    of the turbines.
 
 ## Data Collection:
-A comprehensive dataset was collected, encompassing a variety of features such as turbine sensor data, historical maintenance records, weather conditions, and operational parameters. This diverse dataset served as the foundation for training and evaluating the predictive maintenance models.
+    A comprehensive dataset was collected, encompassing a variety of features such as turbine 
+    sensor data, historical maintenance records, weather conditions, and operational parameters. 
+    This diverse dataset served as the foundation for training and evaluating the predictive 
+    maintenance models.
 
 ## Classification Models:
-Several powerful classification algorithms were employed to develop and compare predictive maintenance models:
-1 Gradient Boosting (GradBoost)
-1 AdaBoost
-1 Bagging
-1 Random Forest
-1 Decision Tree
-1 Logistic Regression
-1 XGBoost (XGB)
+    Several powerful classification algorithms were employed to develop and compare predictive 
+    maintenance models:
+    1. Gradient Boosting (GradBoost)
+    1. AdaBoost
+    1. Bagging
+    1. Random Forest
+    1. Decision Tree
+    1. Logistic Regression
+    1. XGBoost (XGB)
 
 ## Model Development:
 Each classification model was meticulously trained and fine-tuned using the collected dataset. The models were designed to predict the likelihood of a turbine requiring maintenance within a specified time frame.
