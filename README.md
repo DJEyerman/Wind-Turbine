@@ -29,6 +29,8 @@ In this data science project, our objective was to develop a robust predictive m
     Each classification model was meticulously trained and fine-tuned using the collected 
     dataset. The models were designed to predict the likelihood of a turbine requiring 
     maintenance within a specified time frame.
+    
+![Wind_Turbine_Final_Confusion_Results](https://github.com/DJEyerman/Wind-Turbine/assets/38670302/e7c948d3-0540-4f7b-9661-c83897c873b4)
 
 ## AdaBoost Model with Oversampling:
     After rigorous evaluation, the AdaBoost model, implemented with oversampled data 
@@ -36,14 +38,14 @@ In this data science project, our objective was to develop a robust predictive m
     model. AdaBoost's ability to adapt and improve the performance of weak learners, 
     combined with oversampling techniques, resulted in a robust model for identifying 
     potential maintenance needs.
+    
+  ![Wind_Turbine_Final_Confusion_Matrix](https://github.com/DJEyerman/Wind-Turbine/assets/38670302/24f5ee9a-c814-4645-8cc0-e51ccfc928f6)
 
 ## Model Evaluation:
     All models were rigorously evaluated using key performance metrics such as precision, 
     recall, accuracy, and the area under the Receiver Operating Characteristic (ROC) curve. 
     The AdaBoost model consistently demonstrated superior performance, particularly in 
     correctly identifying instances requiring maintenance.  The final confusion matrix was:     
-
-  ![Wind_Turbine_Final_Confusion_Matrix](https://github.com/DJEyerman/Wind-Turbine/assets/38670302/24f5ee9a-c814-4645-8cc0-e51ccfc928f6)
 
 ## Business Impact:
     The implementation of the AdaBoost model with oversampling data has significant 
