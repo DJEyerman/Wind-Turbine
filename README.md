@@ -41,7 +41,9 @@ In this data science project, our objective was to develop a robust predictive m
     All models were rigorously evaluated using key performance metrics such as precision, 
     recall, accuracy, and the area under the Receiver Operating Characteristic (ROC) curve. 
     The AdaBoost model consistently demonstrated superior performance, particularly in 
-    correctly identifying instances requiring maintenance.
+    correctly identifying instances requiring maintenance.  The final confusion matrix was:     
+
+  ![Wind_Turbine_Final_Confusion_Matrix](https://github.com/DJEyerman/Wind-Turbine/assets/38670302/24f5ee9a-c814-4645-8cc0-e51ccfc928f6)
 
 ## Business Impact:
     The implementation of the AdaBoost model with oversampling data has significant 
